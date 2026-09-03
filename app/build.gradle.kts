@@ -138,6 +138,10 @@ dependencies {
     // -------------------------
     testImplementation("junit:junit:4.13.2")
 
+    // For video preview/playback, use AndroidX Media3.
+    implementation("androidx.media3:media3-exoplayer:1.8.0")
+    implementation("androidx.media3:media3-ui:1.8.0")
+
     // -------------------------
     // Android Tests
     // -------------------------

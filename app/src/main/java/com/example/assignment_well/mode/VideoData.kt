@@ -1,4 +1,4 @@
-package com.example.assignment_well
+package com.example.assignment_well.mode
 
 
 import android.net.Uri
